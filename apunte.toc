@@ -1,0 +1,8 @@
+\select@language {spanish}
+\contentsline {chapter}{Notas previas}{\es@scroman {i}}
+\contentsline {section}{\numberline {0.1}Abreviaciones utilizadas}{\es@scroman {i}}
+\contentsline {chapter}{\numberline {1}Estructuras de datos}{1}
+\contentsline {section}{\numberline {1.1}Fenwick Tree}{1}
+\contentsline {subsection}{\numberline {1.1.1}Actualizaciones por rango, consultas puntales }{1}
+\contentsline {subsection}{\numberline {1.1.2}Actualizaciones puntuales, consultas por rango}{2}
+\contentsline {section}{\numberline {1.2}Union-Find}{2}
