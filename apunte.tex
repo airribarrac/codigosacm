@@ -1,15 +1,23 @@
 \documentclass[oneside]{book}
 \usepackage{listings}
 \usepackage{caption}
+\usepackage{subcaption}
+\usepackage[all]{xy}
+\usepackage{imakeidx}
+\makeindex
 \usepackage{graphicx}
+\usepackage[export]{adjustbox}
 \usepackage[spanish]{babel}
 \title{Apunte ICPC}
 
 \begin{document}
+
 \lstnewenvironment{codigo}
   {
     \lstset{
         language=C++,
+        numbers=left,
+        stepnumber=1,
         basicstyle=\footnotesize\ttfamily}
   }
   {
@@ -37,7 +45,7 @@ typedef pair<pair<int,int>,int> iii;
 	\mainmatter
 	\chapter{Estructuras de datos}
 	\section{Fenwick Tree}
-	\textbf{Nota:} Ambas implementaciones tienen rangos entre 1 a n.
+	\textbf{Nota:} Ambas implementaciones tienen rangos entre 1 a n. \index{Fenwick Tree}
 	\subsection{Actualizaciones por rango, consultas puntales }
 	\begin{codigo}
 struct FenwickTree{
@@ -68,7 +76,7 @@ struct FenwickTree{
 	\end{codigo}
 	\pagebreak
 	\subsection{Actualizaciones puntuales, consultas por rango}
-	La consulta $query(a,b)$ corresponde a la sumatoria de los elementos entre los \'indices $a$ y $b$.
+	La consulta $query(a,b)$ corresponde a la sumatoria de los elementos entre los \'indices $a$ y $b$. \index{RSQ}
 	\begin{codigo}
 struct FenwickTree {
   vi ft;
@@ -83,7 +91,7 @@ struct FenwickTree {
     return sum;
   }
 
-  int query(int a, int b) {
+  int query(int a, int b) { \\RSQ
     return query(b) - (a == 1 ? 0 : query(a - 1));
   }
 
@@ -93,7 +101,7 @@ struct FenwickTree {
 };
 	\end{codigo}
 	\section{Union-Find}
-	Utilizada para trabajar conjuntos disjuntos. Sirve para encontrar componentes conexas en grafos no dirigidos.
+	Utilizada para trabajar conjuntos disjuntos. Sirve para encontrar componentes conexas en grafos no dirigidos. \index{Componentes conexas} \index{Conjuntos disjuntos} \index{Particiones}
 	\begin{codigo}
 class UnionFind {
 private:
@@ -122,13 +130,56 @@ public:
 
 	
 	\chapter{Grafos}
+	\section{Single source shortest path}
+	\subsection{Dijkstra}
+	Utilizamos la representacion vvii con pares (vecino,peso)
+	\begin{codigo}
+	asd
+	\end{codigo}
+	\chapter{Flujo}
+	\section{Problemas de asignaci\'on}
+	\subsection{Bipartite matching}
+	\index{Bipartite matching}
+	Tenemos dos conjuntos $A$ y $B$, donde cada elemento de $A$ es compatible con ciertos elementos de $B$. Adem\'as, tenemos la condici\'on de que podemos asociar cada elemento de $A$ con a lo m\'as un solo elemento de $B$. Bipartite matching nos permite saber la cantidad m\'axima de asociaciones posibles.
+\begin{figure}[h]
+\centering
+\begin{subfigure}{.5\textwidth}
+\begin{displaymath}
+\xymatrix@R-1pc{
+&&&*+[o][F-]{B_1} \ar[dddrr]
+\\
+&&*+[o][F-]{A_1} \ar[ur] \ar[dr]
+&*+[o][F-]{B_2} \ar[ddrr]
+\\
+&&*+[o][F-]{A_2} \ar[r] \ar[dddr] \ar[ur]
+&*+[o][F-]{B_3} \ar[drr]
+\\
+*+[o][F-]{S} \ar[rruu] \ar[rru] \ar[rr] \ar[rrd] \ar[rrdd]
+&&*+[o][F-]{A_3} \ar[ur]
+&*+[o][F-]{B_4} \ar[rr]
+&&*+[o][F-]{T}
+\\
+&&*+[o][F-]{A_4} \ar[ddr]
+&*+[o][F-]{B_5} \ar[urr]
+\\
+&&*+[o][F-]{A_5} \ar[r] \ar[uur]
+&*+[o][F-]{B_6} \ar[uurr]
+\\
+&&&*+[o][F-]{B_7} \ar[uuurr]
+\\
+}
+\end{displaymath}
+\caption*{Modelamiento utilizado. Todas las aristas llevan 1 de flujo.}
+\end{subfigure}
+\end{figure}
 	
-	\backmatter
 	\chapter{Contenido adicional}
 	\section{Usar en caso de emergencia}
 	\begin{figure}[h]
 		\centering
-		\includegraphics[width=0.8\textwidth]{foto}
+		\includegraphics[width=0.7\textwidth]{foto}
 		\caption*{GOD BLESS OUR SAVIOUR}
 	\end{figure}
+	\backmatter
+	\printindex
 \end{document}

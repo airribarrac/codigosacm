@@ -7,5 +7,10 @@
 \contentsline {subsection}{\numberline {1.1.2}Actualizaciones puntuales, consultas por rango}{2}
 \contentsline {section}{\numberline {1.2}Union-Find}{2}
 \contentsline {chapter}{\numberline {2}Grafos}{3}
-\contentsline {chapter}{Contenido adicional}{4}
-\contentsline {section}{\numberline {2.1}Usar en caso de emergencia}{4}
+\contentsline {section}{\numberline {2.1}Single source shortest path}{3}
+\contentsline {subsection}{\numberline {2.1.1}Dijkstra}{3}
+\contentsline {chapter}{\numberline {3}Flujo}{4}
+\contentsline {section}{\numberline {3.1}Problemas de asignaci\'on}{4}
+\contentsline {subsection}{\numberline {3.1.1}Bipartite matching}{4}
+\contentsline {chapter}{\numberline {4}Contenido adicional}{5}
+\contentsline {section}{\numberline {4.1}Usar en caso de emergencia}{5}
