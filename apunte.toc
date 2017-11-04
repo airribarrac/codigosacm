@@ -17,7 +17,7 @@
 \contentsline {section}{\numberline {2.3}Kruskal}{12}
 \contentsline {section}{\numberline {2.4}Single source shortest path}{13}
 \contentsline {section}{\numberline {2.5}Edmond Blonsson}{13}
-\contentsline {section}{\numberline {2.6}Flood Fill}{15}
+\contentsline {section}{\numberline {2.6}Flood Fill}{16}
 \contentsline {section}{\numberline {2.7}Dijkstra}{17}
 \contentsline {chapter}{\numberline {3}Matem\'atica}{18}
 \contentsline {section}{\numberline {3.1}Pascal}{18}
@@ -26,7 +26,7 @@
 \contentsline {section}{\numberline {4.1}Intersection}{19}
 \contentsline {section}{\numberline {4.2}Rectangle union}{21}
 \contentsline {section}{\numberline {4.3}Closest pair}{22}
-\contentsline {section}{\numberline {4.4}Radial sweep example}{22}
+\contentsline {section}{\numberline {4.4}Radial sweep example}{23}
 \contentsline {section}{\numberline {4.5}Line sweep example}{25}
 \contentsline {chapter}{\numberline {5}Flujo}{27}
 \contentsline {section}{\numberline {5.1}Problemas de asignaci\'on}{27}
@@ -38,14 +38,14 @@
 \contentsline {section}{\numberline {6.3}Box Stacking}{32}
 \contentsline {section}{\numberline {6.4}Break multiple words with no space into space}{35}
 \contentsline {section}{\numberline {6.5}Burst Balloon}{39}
-\contentsline {section}{\numberline {6.6}Catalan}{41}
-\contentsline {section}{\numberline {6.7}Coin changing}{41}
-\contentsline {section}{\numberline {6.8}Cutting sticks}{42}
-\contentsline {section}{\numberline {6.9}Distinct subsequence}{43}
-\contentsline {section}{\numberline {6.10}Divide and conquer}{43}
-\contentsline {section}{\numberline {6.11}Edit Distance}{45}
-\contentsline {section}{\numberline {6.12}Sum 2D Rectangle}{47}
-\contentsline {section}{\numberline {6.13}Sum Dice}{48}
-\contentsline {chapter}{\numberline {7}Contenido adicional}{50}
-\contentsline {section}{\numberline {7.1}Fast input}{50}
-\contentsline {section}{\numberline {7.2}Usar en caso de emergencia}{50}
+\contentsline {section}{\numberline {6.6}Catalan}{42}
+\contentsline {section}{\numberline {6.7}Coin changing}{42}
+\contentsline {section}{\numberline {6.8}Cutting sticks}{43}
+\contentsline {section}{\numberline {6.9}Distinct subsequence}{44}
+\contentsline {section}{\numberline {6.10}Divide and conquer}{45}
+\contentsline {section}{\numberline {6.11}Edit Distance}{46}
+\contentsline {section}{\numberline {6.12}Sum 2D Rectangle}{48}
+\contentsline {section}{\numberline {6.13}Sum Dice}{49}
+\contentsline {chapter}{\numberline {7}Contenido adicional}{51}
+\contentsline {section}{\numberline {7.1}Fast input}{51}
+\contentsline {section}{\numberline {7.2}Usar en caso de emergencia}{51}

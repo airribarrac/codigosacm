@@ -116,7 +116,8 @@ int main(){
 	while(t--){
 		int n,d,m,u,v,c,p,e;
 		scanf("%d %d %d",&n,&d,&m);
-		origen.clear();destino.clear();capacidad.clear();costos.clear(),orden.clear(),inicial.clear();
+		origen.clear();destino.clear();capacidad.clear();
+		costos.clear(),orden.clear(),inicial.clear();
 		set <int> ordenNR;
 		for(int i = 0; i < m; i++){
 			scanf("%d %d %d %d %d",&u,&v,&c,&p,&e);

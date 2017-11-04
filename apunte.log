@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.1.5)  4 NOV 2017 13:29
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.1.5)  4 NOV 2017 13:34
 entering extended mode
 **apunte.tex
 (C:\Users\Irri\codigosacm\apunte.tex
@@ -387,11 +387,11 @@ File: lstlang1.sty 2004/09/05 1.3 listings language file
 File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 34.
+(Font)              <12> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 34.
+(Font)              <8> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 34.
+(Font)              <6> on input line 35.
 
 
 LaTeX Warning: No \author given.
@@ -425,804 +425,82 @@ Cap\'{\i }tulo 1.
 
 
 ]
-(C:\Users\Irri\codigosacm\Estructuras/FTaPcR.cpp
-Overfull \hbox (37.50847pt too wide) in paragraph at lines 18--19
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
-
- []
-
-) (C:\Users\Irri\codigosacm\Estructuras/UnionFind.cpp
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 9--10
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (6.90779pt too wide) in paragraph at lines 17--18
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-) [2] (C:\Users\Irri\codigosacm\Estructuras/SegTree.cpp [3])
+(C:\Users\Irri\codigosacm\Estructuras/FTaPcR.cpp)
+(C:\Users\Irri\codigosacm\Estructuras/UnionFind.cpp) [2]
+(C:\Users\Irri\codigosacm\Estructuras/SegTree.cpp [3])
 (C:\Users\Irri\codigosacm\Estructuras/SegTreeLazy.cpp [4] [5])
-(C:\Users\Irri\codigosacm\Estructuras/SegmentTreePair.cpp
-Overfull \hbox (139.51073pt too wide) in paragraph at lines 36--37
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][] 
- []
-
-[6]
-Overfull \hbox (124.21039pt too wide) in paragraph at lines 60--61
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][] 
- []
-
+(C:\Users\Irri\codigosacm\Estructuras/SegmentTreePair.cpp [6]
 Missing character: There is no Ã in font cmitt10!
 Missing character: There is no ¡ in font cmitt10!
-
-Overfull \hbox (12.0079pt too wide) in paragraph at lines 64--65
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (88.5096pt too wide) in paragraph at lines 65--66
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][] 
- []
-
-[7]) (C:\Users\Irri\codigosacm\Estructuras/wavelet.cpp [8] [9]) [10]
+ [7])
+(C:\Users\Irri\codigosacm\Estructuras/wavelet.cpp [8] [9]) [10]
 Cap\'{\i }tulo 2.
-(C:\Users\Irri\codigosacm\Grafos/dfs.cpp
-Overfull \hbox (63.00903pt too wide) in paragraph at lines 1--2
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (63.00903pt too wide) in paragraph at lines 2--3
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (63.00903pt too wide) in paragraph at lines 5--6
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (63.00903pt too wide) in paragraph at lines 6--7
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (63.00903pt too wide) in paragraph at lines 9--10
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (63.00903pt too wide) in paragraph at lines 10--11
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (57.90892pt too wide) in paragraph at lines 11--12
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][] 
- []
-
-
-Overfull \hbox (63.00903pt too wide) in paragraph at lines 12--13
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (63.00903pt too wide) in paragraph at lines 15--16
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (63.00903pt too wide) in paragraph at lines 18--19
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-) (C:\Users\Irri\codigosacm\Grafos/brexit.cpp [11
+(C:\Users\Irri\codigosacm\Grafos/dfs.cpp)
+(C:\Users\Irri\codigosacm\Grafos/brexit.cpp [11
 
 ])
-(C:\Users\Irri\codigosacm\Grafos/kruskal.cpp
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 1--2
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 3--4
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 4--5
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 8--9
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 9--11
-[][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 12--13
-[][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 13--14
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][] 
- []
-
-
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 15--16
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 16--17
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 17--18
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 18--20
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 20--21
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-) [12] (C:\Users\Irri\codigosacm\Grafos/EdmonBlonsson.cpp
-Overfull \hbox (108.91005pt too wide) in paragraph at lines 12--13
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
-
- []
-
-[13] [14]
-Overfull \hbox (17.10802pt too wide) in paragraph at lines 135--136
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-) (C:\Users\Irri\codigosacm\Grafos/FloodFill.cpp [15]
-Overfull \hbox (17.10802pt too wide) in paragraph at lines 33--34
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[16]) [17]
+(C:\Users\Irri\codigosacm\Grafos/kruskal.cpp [12])
+(C:\Users\Irri\codigosacm\Grafos/EdmonBlonsson.cpp [13] [14] [15])
+(C:\Users\Irri\codigosacm\Grafos/FloodFill.cpp [16]) [17]
 Cap\'{\i }tulo 3.
 (C:\Users\Irri\codigosacm\Math/pascal.cpp)
 (C:\Users\Irri\codigosacm\Math/prime_sieve.cpp) [18
 
 ]
 Cap\'{\i }tulo 4.
-(C:\Users\Irri\codigosacm\Geometria/UnionFind&&Segment.cpp
-Overfull \hbox (17.10802pt too wide) in paragraph at lines 3--4
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][] 
- []
+(C:\Users\Irri\codigosacm\Geometria/UnionFind&&Segment.cpp [19
 
-[19
-
-]
-Overfull \hbox (165.01129pt too wide) in paragraph at lines 50--51
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (98.70982pt too wide) in paragraph at lines 59--60
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][] 
- []
-
-[20]) (C:\Users\Irri\codigosacm\Geometria/rectangleunion.cpp
-Overfull \hbox (159.91118pt too wide) in paragraph at lines 14--15
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][] 
- []
-
-
-Overfull \hbox (114.01016pt too wide) in paragraph at lines 17--18
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][] 
- []
-
-
-Overfull \hbox (114.01016pt too wide) in paragraph at lines 18--19
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][] 
- []
-
-
-Overfull \hbox (42.60858pt too wide) in paragraph at lines 19--20
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (68.10915pt too wide) in paragraph at lines 24--25
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][] 
- []
-
-
-Overfull \hbox (42.60858pt too wide) in paragraph at lines 32--33
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (88.5096pt too wide) in paragraph at lines 36--37
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (37.50847pt too wide) in paragraph at lines 37--38
-[][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (114.01016pt too wide) in paragraph at lines 38--39
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-] 
- []
-
-
-Overfull \hbox (83.40948pt too wide) in paragraph at lines 41--42
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
-
- []
-
-
-Overfull \hbox (32.40836pt too wide) in paragraph at lines 43--44
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[21]) (C:\Users\Irri\codigosacm\Geometria/closestpair.cpp
-Overfull \hbox (47.7087pt too wide) in paragraph at lines 21--22
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (124.21039pt too wide) in paragraph at lines 22--23
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (134.41061pt too wide) in paragraph at lines 24--25
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][] 
- []
-
-) (C:\Users\Irri\codigosacm\Geometria/hideandseek.cpp [22]
-Overfull \hbox (78.30937pt too wide) in paragraph at lines 55--56
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (37.50847pt too wide) in paragraph at lines 56--57
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[23]
-Overfull \hbox (103.80994pt too wide) in paragraph at lines 120--121
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][] 
- []
-
-
-Overfull \hbox (119.11028pt too wide) in paragraph at lines 123--124
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][] 
- []
-
-[24]) (C:\Users\Irri\codigosacm\Geometria/fence.cpp [25]
-Overfull \hbox (78.30936pt too wide) in paragraph at lines 46--47
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-) [26]
+] [20])
+(C:\Users\Irri\codigosacm\Geometria/rectangleunion.cpp [21])
+(C:\Users\Irri\codigosacm\Geometria/closestpair.cpp [22])
+(C:\Users\Irri\codigosacm\Geometria/hideandseek.cpp [23] [24])
+(C:\Users\Irri\codigosacm\Geometria/fence.cpp [25]) [26]
 Cap\'{\i }tulo 5.
 <xymatrix 6x7 836>
-Overfull \hbox (21.4983pt too wide) detected at line 129
+Overfull \hbox (21.4983pt too wide) detected at line 130
 []
  []
 
 [27
 
-] (C:\Users\Irri\codigosacm\Flujo/Dinic.cpp [28]
-Overfull \hbox (88.5096pt too wide) in paragraph at lines 63--64
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 99--101
-[][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[29]
-Overfull \hbox (154.81107pt too wide) in paragraph at lines 119--120
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-) [30]
+] (C:\Users\Irri\codigosacm\Flujo/Dinic.cpp [28] [29]) [30]
 Cap\'{\i }tulo 6.
 (C:\Users\Irri\codigosacm\DP/01knap.cpp)
-(C:\Users\Irri\codigosacm\DP/BitonicSequence.cpp
-Overfull \hbox (52.8088pt too wide) in paragraph at lines 3--4
-[][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[31
-
-]) (C:\Users\Irri\codigosacm\DP/BoxStacking.java
-Overfull \hbox (119.11028pt too wide) in paragraph at lines 9--10
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (129.3105pt too wide) in paragraph at lines 10--11
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][] 
- []
-
-
-Overfull \hbox (98.70982pt too wide) in paragraph at lines 11--12
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][] 
- []
-
-
-Overfull \hbox (103.80994pt too wide) in paragraph at lines 14--15
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (119.11028pt too wide) in paragraph at lines 15--16
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][] 
- []
-
-
-Overfull \hbox (114.01016pt too wide) in paragraph at lines 17--18
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][] 
- []
-
-
-Overfull \hbox (57.90892pt too wide) in paragraph at lines 18--19
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (47.7087pt too wide) in paragraph at lines 20--21
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[32]
-Overfull \hbox (93.60971pt too wide) in paragraph at lines 22--23
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][] 
- []
-
-
-Overfull \hbox (63.00903pt too wide) in paragraph at lines 25--26
-[][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (1.80768pt too wide) in paragraph at lines 32--33
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
- []
-
-
-Overfull \hbox (32.40836pt too wide) in paragraph at lines 33--34
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (17.10802pt too wide) in paragraph at lines 34--35
-[][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (93.60971pt too wide) in paragraph at lines 37--38
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (98.70982pt too wide) in paragraph at lines 40--41
-[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (37.50847pt too wide) in paragraph at lines 51--52
-[][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (78.30937pt too wide) in paragraph at lines 52--53
-[][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (83.40948pt too wide) in paragraph at lines 73--74
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[33]
-Overfull \hbox (12.0079pt too wide) in paragraph at lines 79--80
-[][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (12.0079pt too wide) in paragraph at lines 81--82
-[][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (12.0079pt too wide) in paragraph at lines 83--85
-[][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (57.90892pt too wide) in paragraph at lines 90--91
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (22.20813pt too wide) in paragraph at lines 116--117
-[][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[34]) (C:\Users\Irri\codigosacm\DP/break.java
-Overfull \hbox (78.30937pt too wide) in paragraph at lines 9--10
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (6.90779pt too wide) in paragraph at lines 24--25
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (17.10802pt too wide) in paragraph at lines 35--36
-[][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[35]
-Overfull \hbox (37.50847pt too wide) in paragraph at lines 54--55
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (37.50847pt too wide) in paragraph at lines 57--58
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (73.20926pt too wide) in paragraph at lines 65--66
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (37.50847pt too wide) in paragraph at lines 74--75
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (103.80994pt too wide) in paragraph at lines 79--80
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][] 
- []
-
-[36]
-Overfull \hbox (6.90779pt too wide) in paragraph at lines 109--110
-[][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (32.40836pt too wide) in paragraph at lines 113--114
-[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (261.91344pt too wide) in paragraph at lines 122--123
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (6.90779pt too wide) in paragraph at lines 132--133
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][] 
- []
-
-
-Overfull \hbox (27.30824pt too wide) in paragraph at lines 137--138
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (63.00903pt too wide) in paragraph at lines 151--152
-[][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[37]
-Overfull \hbox (22.20813pt too wide) in paragraph at lines 157--159
-[][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (302.71434pt too wide) in paragraph at lines 161--162
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][] 
- []
-
-
-Overfull \hbox (6.90779pt too wide) in paragraph at lines 170--171
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][] 
- []
-
-
-Overfull \hbox (37.50847pt too wide) in paragraph at lines 175--176
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (17.10802pt too wide) in paragraph at lines 184--185
-[][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (154.81107pt too wide) in paragraph at lines 210--211
-[][][][][][][][][][][][][][] 
- []
-
-[38]) (C:\Users\Irri\codigosacm\DP/BurstBallon.java
-Overfull \hbox (159.91118pt too wide) in paragraph at lines 7--8
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][] 
- []
-
-
-Overfull \hbox (134.41061pt too wide) in paragraph at lines 8--9
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][] 
- []
-
-
-Overfull \hbox (226.21265pt too wide) in paragraph at lines 9--10
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (32.40836pt too wide) in paragraph at lines 11--12
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (68.10915pt too wide) in paragraph at lines 32--33
-[][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (73.20926pt too wide) in paragraph at lines 33--34
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (17.10802pt too wide) in paragraph at lines 43--44
-[][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (57.90892pt too wide) in paragraph at lines 45--46
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[39]
-Overfull \hbox (108.91005pt too wide) in paragraph at lines 55--56
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (129.3105pt too wide) in paragraph at lines 83--84
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (1.80768pt too wide) in paragraph at lines 92--93
-[][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[40]) (C:\Users\Irri\codigosacm\DP/Catalan.cpp
-Overfull \hbox (205.8122pt too wide) in paragraph at lines 4--5
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][] 
- []
-
-
-Overfull \hbox (32.40836pt too wide) in paragraph at lines 6--7
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (384.31615pt too wide) in paragraph at lines 7--8
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][] 
- []
-
-) (C:\Users\Irri\codigosacm\DP/CoinChanging.cpp
-Overfull \hbox (78.30937pt too wide) in paragraph at lines 2--3
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[41]) (C:\Users\Irri\codigosacm\DP/CuttingStick.cpp
+(C:\Users\Irri\codigosacm\DP/BitonicSequence.cpp [31
+
+])
+(C:\Users\Irri\codigosacm\DP/BoxStacking.java [32] [33] [34])
+(C:\Users\Irri\codigosacm\DP/break.java [35] [36] [37] [38])
+(C:\Users\Irri\codigosacm\DP/BurstBallon.java [39] [40] [41])
+(C:\Users\Irri\codigosacm\DP/Catalan.cpp)
+(C:\Users\Irri\codigosacm\DP/CoinChanging.cpp [42])
+(C:\Users\Irri\codigosacm\DP/CuttingStick.cpp
 Missing character: There is no Ã in font cmitt10!
 Missing character: There is no ± in font cmitt10!
-
-Overfull \hbox (323.11479pt too wide) in paragraph at lines 1--3
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (52.8088pt too wide) in paragraph at lines 21--22
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][] 
- []
-
-[42]) (C:\Users\Irri\codigosacm\DP/DistinctSubsequence.java
-Overfull \hbox (103.80994pt too wide) in paragraph at lines 7--8
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][] 
- []
-
-) (C:\Users\Irri\codigosacm\DP/DivideAndConquer.cpp [43]
-Overfull \hbox (42.60858pt too wide) in paragraph at lines 15--16
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][] 
- []
-
-
-Overfull \hbox (63.00903pt too wide) in paragraph at lines 16--18
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][] 
- []
-
-
-Overfull \hbox (37.50847pt too wide) in paragraph at lines 37--38
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[44]) (C:\Users\Irri\codigosacm\DP/EditDistance.java
-Overfull \hbox (210.91231pt too wide) in paragraph at lines 9--10
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][] 
- []
-
-
-Overfull \hbox (22.20813pt too wide) in paragraph at lines 15--16
-[][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (47.7087pt too wide) in paragraph at lines 23--25
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (680.1227pt too wide) in paragraph at lines 31--32
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][] 
- []
-
-[45]
-Overfull \hbox (88.5096pt too wide) in paragraph at lines 53--54
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
-
- []
-
-
-Overfull \hbox (17.10802pt too wide) in paragraph at lines 65--66
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (185.41174pt too wide) in paragraph at lines 76--77
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (6.90779pt too wide) in paragraph at lines 80--81
-[][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (6.90779pt too wide) in paragraph at lines 83--84
-[][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (68.10915pt too wide) in paragraph at lines 86--87
-[][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[46]
-Overfull \hbox (134.41061pt too wide) in paragraph at lines 101--102
-[][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-) (C:\Users\Irri\codigosacm\DP/Sum2DRectangle.java
-Overfull \hbox (6.90779pt too wide) in paragraph at lines 7--8
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (129.3105pt too wide) in paragraph at lines 29--30
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[47]
-Overfull \hbox (129.3105pt too wide) in paragraph at lines 39--40
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (73.20926pt too wide) in paragraph at lines 49--50
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-
-Overfull \hbox (42.60858pt too wide) in paragraph at lines 50--51
-[][][][][][][][][][][][][][][][] 
- []
-
-) (C:\Users\Irri\codigosacm\DP/SumDice.java
-Overfull \hbox (108.91005pt too wide) in paragraph at lines 7--8
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
- []
-
-[48]) [49]
+ [43])
+(C:\Users\Irri\codigosacm\DP/DistinctSubsequence.java) [44]
+(C:\Users\Irri\codigosacm\DP/DivideAndConquer.cpp [45])
+(C:\Users\Irri\codigosacm\DP/EditDistance.java [46] [47])
+(C:\Users\Irri\codigosacm\DP/Sum2DRectangle.java [48])
+(C:\Users\Irri\codigosacm\DP/SumDice.java [49]) [50]
 Cap\'{\i }tulo 7.
 (C:\Users\Irri\codigosacm\Misc/fastio.cpp)
-<foto.png, id=185, 714.41907pt x 886.06032pt>
+<foto.png, id=188, 714.41907pt x 886.06032pt>
 File: foto.png Graphic file (type png)
  <use foto.png>
-Package pdftex.def Info: foto.png used on input line 173.
+Package pdftex.def Info: foto.png used on input line 174.
 (pdftex.def)             Requested size: 241.49895pt x 299.51242pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[50
+[51
 
-] [51 <C:/Users/Irri/codigosacm/foto.png>]
+] [52 <C:/Users/Irri/codigosacm/foto.png>]
 runsystem(makeindex apunte.idx)...executed (allowed).
 
 
-(C:\Users\Irri\codigosacm\apunte.ind) [52
+(C:\Users\Irri\codigosacm\apunte.ind) [53
 
 
 
@@ -1234,11 +512,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  9022 strings out of 494045
  123522 string characters out of 3148391
- 274284 words of memory out of 3000000
+ 413335 words of memory out of 3000000
  12075 multiletter control sequences out of 15000+200000
  12131 words of font info for 47 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 47i,16n,97p,3238b,1657s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,16n,97p,3238b,1677s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Program Files/MiKTe
@@ -1254,9 +532,9 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/xypic/xyatip10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/xypi
 c/xybtip10.pfb>
-Output written on apunte.pdf (56 pages, 926488 bytes).
+Output written on apunte.pdf (57 pages, 928352 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
+ 252 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
