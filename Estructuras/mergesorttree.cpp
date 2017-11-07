@@ -33,7 +33,7 @@ private:
         if (rl < ql || ll > qr) return 0;
         if (ll >= ql && rl <= qr) {
             // modify here
-            int t = st[n].end() - upper_bound(st[n].begin(), st[n].end(), k);
+            int t = st[n].end() - upper_bound(st[n].begin(), sizet[n].end(), k);
             return t;
         }
         int left = query(2*n+1, ll, (ll+rl)/2, ql, qr, k);
