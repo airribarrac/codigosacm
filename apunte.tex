@@ -4,6 +4,8 @@
 \usepackage{subcaption}
 \usepackage[all]{xy}
 \usepackage{imakeidx}
+\usepackage{amsmath}
+\newcommand{\Mod}[1]{\ (\mathrm{mod}\ #1)}
 \makeindex
 \usepackage{graphicx}
 \usepackage[export]{adjustbox}
@@ -86,6 +88,18 @@
 	asd
 	\end{codigo}
 	\chapter{Matem\'atica}
+	\section{Formulas \'utiles}
+	\subsection{Sumatorias}
+		\[\sum_{i=1}^{n}i=\frac{n(n+1)}{2}\]
+		\[\sum_{i=1}^{n}i^2=\frac{n(n+1)(2n+1)}{6}\]
+		\[\sum_{i=1}^{n}i^3=\frac{n^2(n+1)^2}{4}\]
+	\section{Teorema chino del resto}
+	Para el sistema de congruencias:
+	\[x\equiv a_1 \Mod {n_1} \]
+	\[x\equiv a_2 \Mod {n_2} \]
+	\[\vdots\]
+	\[x\equiv a_k \Mod {n_k} \]
+	Si $\forall i,j, i\neq j: n_i$ y $n_j$ son coprimos, entonces el sistema tiene soluci\'on \'unica m\'odulo $M=n_1n_2...n_k$
 	\section{Pascal}
 	\lstinputlisting{Math/pascal.cpp}
 	\section{Criba}
