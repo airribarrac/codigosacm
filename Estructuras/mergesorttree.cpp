@@ -5,11 +5,11 @@ private:
     void merge(int n, int left, int right) {
         int lptr = 0, rptr = 0, cptr = 0;;
         while (lptr < st[left].size() || rptr < st[right].size()) {
-            if (lptr == st[left].size())
+            if (lptr == st[left].size()){
                 st[n][cptr++] = st[right][rptr++];
-            else if (rptr == st[right].size())
+            }else if (rptr == st[right].size()){
                 st[n][cptr++] = st[left][lptr++];
-            else {
+            }else {
                 if (st[left][lptr] < st[right][rptr])
                     st[n][cptr++] = st[left][lptr++];
                 else
@@ -43,7 +43,7 @@ private:
 public:
     MSTree(vector<int> &a){
        
-        n=a.size();
+        n=a.size(   );
 
         st.resize(4*n+10);
 
