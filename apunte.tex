@@ -34,7 +34,26 @@
         breaklines=true,
         basicstyle=\footnotesize\ttfamily}
   
-	\maketitle	
+	\begin{titlepage}
+	\centering
+	
+	{\scshape\LARGE Universidad de Concepci\'on \par}
+	\vspace{1cm}
+	\vspace{1.5cm}
+	{\huge\bfseries Apunte ICPC\par}
+	\vspace{2cm}
+	\includegraphics[width=5cm]{gataca}\par\vspace{1cm}
+
+	\vfill
+	
+
+	\vfill
+
+% Bottom of the page
+	{\large \today\par}
+\end{titlepage}	
+	
+	
 	\tableofcontents
 
 	\frontmatter
@@ -62,7 +81,8 @@
 			\lstinputlisting{Estructuras/SegTreeLazy.cpp}
 		\subsection{Pair}
 			\lstinputlisting{Estructuras/SegmentTreePair.cpp}
-			
+	\section{Sparse Table}
+		\lstinputlisting{Estructuras/sparsetable.cpp}
 			
 	\section{Wavelet Tree}
 		\lstinputlisting{Estructuras/wavelet.cpp}
@@ -104,7 +124,8 @@
 	\lstinputlisting{Math/pascal.cpp}
 	\section{Criba}
 	\lstinputlisting{Math/prime_sieve.cpp}
-	
+	\section{Algoritmo de Gausss}
+		\lstinputlisting{Math/gaussianelimination.cpp}
 	\chapter{Geometria}
 	\section{Intersection}
 	\lstinputlisting{Geometria/UnionFind&&Segment.cpp}
@@ -116,6 +137,12 @@
 	\lstinputlisting{Geometria/hideandseek.cpp}
 	\section{Line sweep example}
 	\lstinputlisting{Geometria/fence.cpp}
+	\section{Distancia punto-recta}
+	\lstinputlisting{Geometria/distPointLine.cpp}
+	\section{Distancia punto-segmento}
+	\lstinputlisting{Geometria/distPointSegment.cpp}
+	\section{Check if convex}
+	\lstinputlisting{Geometria/convexCheck.cpp}
 	\chapter{Flujo}
 	\section{Problemas de asignaci\'on}
 	\subsection{Bipartite matching}
@@ -152,6 +179,8 @@
 	\chapter{Programaci\'on din\'amica}
 	\section{0/1 Knapsack}
 	\lstinputlisting{DP/01knap.cpp}
+	\section{Longest Common Subsequence}
+	\lstinputlisting{DP/lcs.cpp}
 	\section{Bitonic Sequence}
 	\lstinputlisting{DP/BitonicSequence.cpp}
 	\section{Box Stacking}
@@ -176,12 +205,18 @@
 	\lstinputlisting{DP/Sum2DRectangle.java}
 	\section{Sum Dice}
 	\lstinputlisting{DP/SumDice.java}
-	
-	
+	\chapter{Misc}
+	\section{Fechas}
+	\lstinputlisting{Misc/dates.cpp}
+	\section{Inversion Count}
+	\lstinputlisting{Misc/inversioncount.cpp}
+	\section{Longest palindrome subsequence}
+	\lstinputlisting{DP/longestpalindromesubsequence.cpp}
 	
 	\chapter{Contenido adicional}
 	\section{Fast input}
 	\lstinputlisting{Misc/fastio.cpp}
+	\newpage
 	\section{Usar en caso de emergencia}
 	\begin{figure}[h]
 		\centering

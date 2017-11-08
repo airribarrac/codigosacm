@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.1.5)  7 NOV 2017 03:42
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.1.5)  8 NOV 2017 00:44
 entering extended mode
 **apunte.tex
 (C:\Users\Irri\codigosacm\apunte.tex
@@ -440,13 +440,16 @@ File: lstlang1.sty 2004/09/05 1.3 listings language file
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
 )
+<gataca.png, id=1, 513.92pt x 480.79625pt>
+File: gataca.png Graphic file (type png)
+ <use gataca.png>
+Package pdftex.def Info: gataca.png used on input line 45.
+(pdftex.def)             Requested size: 142.26378pt x 133.09605pt.
+ [1
 
-LaTeX Warning: No \author given.
 
-[1
-
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Irri/codigosacm/
+gataca.png>]
 (C:\Users\Irri\codigosacm\apunte.toc
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
@@ -480,90 +483,97 @@ Cap\'{\i }tulo 1.
 Missing character: There is no Ã in font cmitt10!
 Missing character: There is no ¡ in font cmitt10!
  [7])
-(C:\Users\Irri\codigosacm\Estructuras/wavelet.cpp [8] [9]) [10]
+(C:\Users\Irri\codigosacm\Estructuras/sparsetable.cpp) [8]
+(C:\Users\Irri\codigosacm\Estructuras/wavelet.cpp [9] [10]) [11]
 Cap\'{\i }tulo 2.
 (C:\Users\Irri\codigosacm\Grafos/dfs.cpp)
-(C:\Users\Irri\codigosacm\Grafos/brexit.cpp [11
+(C:\Users\Irri\codigosacm\Grafos/brexit.cpp [12
 
 ])
-(C:\Users\Irri\codigosacm\Grafos/kruskal.cpp [12])
-(C:\Users\Irri\codigosacm\Grafos/EdmonBlonsson.cpp [13] [14] [15])
-(C:\Users\Irri\codigosacm\Grafos/FloodFill.cpp [16]) [17]
+(C:\Users\Irri\codigosacm\Grafos/kruskal.cpp [13])
+(C:\Users\Irri\codigosacm\Grafos/EdmonBlonsson.cpp [14] [15] [16])
+(C:\Users\Irri\codigosacm\Grafos/FloodFill.cpp [17]) [18]
 Cap\'{\i }tulo 3.
-(C:\Users\Irri\codigosacm\Math/pascal.cpp [18
+(C:\Users\Irri\codigosacm\Math/pascal.cpp [19
 
 ])
-(C:\Users\Irri\codigosacm\Math/prime_sieve.cpp) [19]
+(C:\Users\Irri\codigosacm\Math/prime_sieve.cpp)
+(C:\Users\Irri\codigosacm\Math/gaussianelimination.cpp [20]) [21]
 Cap\'{\i }tulo 4.
-(C:\Users\Irri\codigosacm\Geometria/UnionFind&&Segment.cpp [20
+(C:\Users\Irri\codigosacm\Geometria/UnionFind&&Segment.cpp [22
 
-] [21])
-(C:\Users\Irri\codigosacm\Geometria/rectangleunion.cpp [22])
-(C:\Users\Irri\codigosacm\Geometria/closestpair.cpp [23])
-(C:\Users\Irri\codigosacm\Geometria/hideandseek.cpp [24] [25])
-(C:\Users\Irri\codigosacm\Geometria/fence.cpp [26]) [27]
+] [23])
+(C:\Users\Irri\codigosacm\Geometria/rectangleunion.cpp [24])
+(C:\Users\Irri\codigosacm\Geometria/closestpair.cpp [25])
+(C:\Users\Irri\codigosacm\Geometria/hideandseek.cpp [26] [27])
+(C:\Users\Irri\codigosacm\Geometria/fence.cpp [28])
+(C:\Users\Irri\codigosacm\Geometria/distPointLine.cpp) [29]
+(C:\Users\Irri\codigosacm\Geometria/distPointSegment.cpp)
+(C:\Users\Irri\codigosacm\Geometria/convexCheck.cpp) [30]
 Cap\'{\i }tulo 5.
 <xymatrix 6x7 836>
-Overfull \hbox (21.4983pt too wide) detected at line 144
+Overfull \hbox (21.4983pt too wide) detected at line 171
 []
  []
 
-[28
+[31
 
-] (C:\Users\Irri\codigosacm\Flujo/Dinic.cpp [29] [30]) [31]
+] (C:\Users\Irri\codigosacm\Flujo/Dinic.cpp [32] [33]) [34]
 Cap\'{\i }tulo 6.
-(C:\Users\Irri\codigosacm\DP/01knap.cpp)
-(C:\Users\Irri\codigosacm\DP/BitonicSequence.cpp [32
+(C:\Users\Irri\codigosacm\DP/01knap.cpp) (C:\Users\Irri\codigosacm\DP/lcs.cpp
+[35
 
-])
-(C:\Users\Irri\codigosacm\DP/BoxStacking.java [33] [34] [35])
-(C:\Users\Irri\codigosacm\DP/break.java [36] [37] [38] [39])
-(C:\Users\Irri\codigosacm\DP/BurstBallon.java [40] [41] [42])
-(C:\Users\Irri\codigosacm\DP/Catalan.cpp)
-(C:\Users\Irri\codigosacm\DP/CoinChanging.cpp [43])
+]) (C:\Users\Irri\codigosacm\DP/BitonicSequence.cpp [36])
+(C:\Users\Irri\codigosacm\DP/BoxStacking.java [37] [38] [39])
+(C:\Users\Irri\codigosacm\DP/break.java [40] [41] [42] [43])
+(C:\Users\Irri\codigosacm\DP/BurstBallon.java [44] [45])
+(C:\Users\Irri\codigosacm\DP/Catalan.cpp [46])
+(C:\Users\Irri\codigosacm\DP/CoinChanging.cpp)
 (C:\Users\Irri\codigosacm\DP/CuttingStick.cpp
 Missing character: There is no Ã in font cmitt10!
 Missing character: There is no ± in font cmitt10!
- [44])
-(C:\Users\Irri\codigosacm\DP/DistinctSubsequence.java) [45]
-(C:\Users\Irri\codigosacm\DP/DivideAndConquer.cpp [46])
-(C:\Users\Irri\codigosacm\DP/EditDistance.java [47] [48])
-(C:\Users\Irri\codigosacm\DP/Sum2DRectangle.java [49])
-(C:\Users\Irri\codigosacm\DP/SumDice.java [50]) [51]
+ [47])
+(C:\Users\Irri\codigosacm\DP/DistinctSubsequence.java [48])
+(C:\Users\Irri\codigosacm\DP/DivideAndConquer.cpp [49]) [50]
+(C:\Users\Irri\codigosacm\DP/EditDistance.java [51] [52])
+(C:\Users\Irri\codigosacm\DP/Sum2DRectangle.java [53])
+(C:\Users\Irri\codigosacm\DP/SumDice.java [54]) [55]
 Cap\'{\i }tulo 7.
-(C:\Users\Irri\codigosacm\Misc/fastio.cpp)
-<foto.png, id=195, 714.41907pt x 886.06032pt>
+(C:\Users\Irri\codigosacm\Misc/dates.cpp)
+(C:\Users\Irri\codigosacm\Misc/inversioncount.cpp [56
+
+])
+(C:\Users\Irri\codigosacm\DP/longestpalindromesubsequence.cpp [57]) [58]
+Cap\'{\i }tulo 8.
+(C:\Users\Irri\codigosacm\Misc/fastio.cpp) [59
+
+]
+<foto.png, id=222, 714.41907pt x 886.06032pt>
 File: foto.png Graphic file (type png)
  <use foto.png>
-Package pdftex.def Info: foto.png used on input line 188.
+Package pdftex.def Info: foto.png used on input line 223.
 (pdftex.def)             Requested size: 241.49895pt x 299.51242pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[52
-
-] [53 <C:/Users/Irri/codigosacm/foto.png>]
+ [60 <C:/Users/Irri/codigosacm/foto.png>]
 runsystem(makeindex apunte.idx)...executed (allowed).
 
-
-(C:\Users\Irri\codigosacm\apunte.ind) [54
-
+ (C:\Users\Irri\codigosacm\apunte.ind) [61
 
 
-] (C:\Users\Irri\codigosacm\apunte.aux)
+
+]
+(C:\Users\Irri\codigosacm\apunte.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 9610 strings out of 494045
- 130175 string characters out of 3148391
- 424637 words of memory out of 3000000
- 12645 multiletter control sequences out of 15000+200000
- 13259 words of font info for 52 fonts, out of 3000000 for 9000
+ 9706 strings out of 494045
+ 132026 string characters out of 3148391
+ 418637 words of memory out of 3000000
+ 12714 multiletter control sequences out of 15000+200000
+ 12422 words of font info for 49 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 47i,16n,97p,3238b,1682s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,16n,97p,3238b,1684s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Program Files/MiKTe
@@ -573,17 +583,16 @@ e1/public/amsfonts/cm/cmitt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 r10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmtt8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/xypic/xyatip10.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/xypic/xybtip10.pfb>
-Output written on apunte.pdf (58 pages, 955470 bytes).
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmtt8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/xypic/xy
+atip10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/xypic/xybtip10.pfb>
+Output written on apunte.pdf (65 pages, 1113393 bytes).
 PDF statistics:
- 267 PDF objects out of 1000 (max. 8388607)
+ 288 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

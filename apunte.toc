@@ -10,45 +10,55 @@
 \contentsline {subsection}{\numberline {1.3.1}Iterativo}{3}
 \contentsline {subsection}{\numberline {1.3.2}Lazy}{4}
 \contentsline {subsection}{\numberline {1.3.3}Pair}{6}
-\contentsline {section}{\numberline {1.4}Wavelet Tree}{8}
-\contentsline {chapter}{\numberline {2}Grafos}{11}
-\contentsline {section}{\numberline {2.1}DFS}{11}
-\contentsline {section}{\numberline {2.2}Brexit}{11}
-\contentsline {section}{\numberline {2.3}Kruskal}{12}
-\contentsline {section}{\numberline {2.4}Single source shortest path}{13}
-\contentsline {section}{\numberline {2.5}Edmond Blonsson}{13}
-\contentsline {section}{\numberline {2.6}Flood Fill}{16}
-\contentsline {section}{\numberline {2.7}Dijkstra}{17}
-\contentsline {chapter}{\numberline {3}Matem\'atica}{18}
-\contentsline {section}{\numberline {3.1}Formulas \'utiles}{18}
-\contentsline {subsection}{\numberline {3.1.1}Sumatorias}{18}
-\contentsline {section}{\numberline {3.2}Teorema chino del resto}{18}
-\contentsline {section}{\numberline {3.3}Pascal}{19}
-\contentsline {section}{\numberline {3.4}Criba}{19}
-\contentsline {chapter}{\numberline {4}Geometria}{20}
-\contentsline {section}{\numberline {4.1}Intersection}{20}
-\contentsline {section}{\numberline {4.2}Rectangle union}{22}
-\contentsline {section}{\numberline {4.3}Closest pair}{23}
-\contentsline {section}{\numberline {4.4}Radial sweep example}{24}
-\contentsline {section}{\numberline {4.5}Line sweep example}{26}
-\contentsline {chapter}{\numberline {5}Flujo}{28}
-\contentsline {section}{\numberline {5.1}Problemas de asignaci\'on}{28}
-\contentsline {subsection}{\numberline {5.1.1}Bipartite matching}{28}
-\contentsline {section}{\numberline {5.2}Dinic}{29}
-\contentsline {chapter}{\numberline {6}Programaci\'on din\'amica}{32}
-\contentsline {section}{\numberline {6.1}0/1 Knapsack}{32}
-\contentsline {section}{\numberline {6.2}Bitonic Sequence}{32}
-\contentsline {section}{\numberline {6.3}Box Stacking}{33}
-\contentsline {section}{\numberline {6.4}Break multiple words with no space into space}{36}
-\contentsline {section}{\numberline {6.5}Burst Balloon}{40}
-\contentsline {section}{\numberline {6.6}Catalan}{43}
-\contentsline {section}{\numberline {6.7}Coin changing}{43}
-\contentsline {section}{\numberline {6.8}Cutting sticks}{44}
-\contentsline {section}{\numberline {6.9}Distinct subsequence}{45}
-\contentsline {section}{\numberline {6.10}Divide and conquer}{46}
-\contentsline {section}{\numberline {6.11}Edit Distance}{47}
-\contentsline {section}{\numberline {6.12}Sum 2D Rectangle}{49}
-\contentsline {section}{\numberline {6.13}Sum Dice}{50}
-\contentsline {chapter}{\numberline {7}Contenido adicional}{52}
-\contentsline {section}{\numberline {7.1}Fast input}{52}
-\contentsline {section}{\numberline {7.2}Usar en caso de emergencia}{52}
+\contentsline {section}{\numberline {1.4}Sparse Table}{8}
+\contentsline {section}{\numberline {1.5}Wavelet Tree}{9}
+\contentsline {chapter}{\numberline {2}Grafos}{12}
+\contentsline {section}{\numberline {2.1}DFS}{12}
+\contentsline {section}{\numberline {2.2}Brexit}{12}
+\contentsline {section}{\numberline {2.3}Kruskal}{13}
+\contentsline {section}{\numberline {2.4}Single source shortest path}{14}
+\contentsline {section}{\numberline {2.5}Edmond Blonsson}{14}
+\contentsline {section}{\numberline {2.6}Flood Fill}{17}
+\contentsline {section}{\numberline {2.7}Dijkstra}{18}
+\contentsline {chapter}{\numberline {3}Matem\'atica}{19}
+\contentsline {section}{\numberline {3.1}Formulas \'utiles}{19}
+\contentsline {subsection}{\numberline {3.1.1}Sumatorias}{19}
+\contentsline {section}{\numberline {3.2}Teorema chino del resto}{19}
+\contentsline {section}{\numberline {3.3}Pascal}{20}
+\contentsline {section}{\numberline {3.4}Criba}{20}
+\contentsline {section}{\numberline {3.5}Algoritmo de Gausss}{20}
+\contentsline {chapter}{\numberline {4}Geometria}{22}
+\contentsline {section}{\numberline {4.1}Intersection}{22}
+\contentsline {section}{\numberline {4.2}Rectangle union}{24}
+\contentsline {section}{\numberline {4.3}Closest pair}{25}
+\contentsline {section}{\numberline {4.4}Radial sweep example}{26}
+\contentsline {section}{\numberline {4.5}Line sweep example}{28}
+\contentsline {section}{\numberline {4.6}Distancia punto-recta}{29}
+\contentsline {section}{\numberline {4.7}Distancia punto-segmento}{30}
+\contentsline {section}{\numberline {4.8}Check if convex}{30}
+\contentsline {chapter}{\numberline {5}Flujo}{31}
+\contentsline {section}{\numberline {5.1}Problemas de asignaci\'on}{31}
+\contentsline {subsection}{\numberline {5.1.1}Bipartite matching}{31}
+\contentsline {section}{\numberline {5.2}Dinic}{32}
+\contentsline {chapter}{\numberline {6}Programaci\'on din\'amica}{35}
+\contentsline {section}{\numberline {6.1}0/1 Knapsack}{35}
+\contentsline {section}{\numberline {6.2}Longest Common Subsequence}{35}
+\contentsline {section}{\numberline {6.3}Bitonic Sequence}{36}
+\contentsline {section}{\numberline {6.4}Box Stacking}{37}
+\contentsline {section}{\numberline {6.5}Break multiple words with no space into space}{40}
+\contentsline {section}{\numberline {6.6}Burst Balloon}{44}
+\contentsline {section}{\numberline {6.7}Catalan}{46}
+\contentsline {section}{\numberline {6.8}Coin changing}{47}
+\contentsline {section}{\numberline {6.9}Cutting sticks}{47}
+\contentsline {section}{\numberline {6.10}Distinct subsequence}{48}
+\contentsline {section}{\numberline {6.11}Divide and conquer}{49}
+\contentsline {section}{\numberline {6.12}Edit Distance}{51}
+\contentsline {section}{\numberline {6.13}Sum 2D Rectangle}{53}
+\contentsline {section}{\numberline {6.14}Sum Dice}{54}
+\contentsline {chapter}{\numberline {7}Misc}{56}
+\contentsline {section}{\numberline {7.1}Fechas}{56}
+\contentsline {section}{\numberline {7.2}Inversion Count}{56}
+\contentsline {section}{\numberline {7.3}Longest palindrome subsequence}{57}
+\contentsline {chapter}{\numberline {8}Contenido adicional}{59}
+\contentsline {section}{\numberline {8.1}Fast input}{59}
+\contentsline {section}{\numberline {8.2}Usar en caso de emergencia}{60}
