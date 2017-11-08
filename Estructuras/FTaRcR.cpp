@@ -10,7 +10,7 @@ int Total2(int x, int y, vector<int>&f){
     if (x==0)
         return Total(y, f);
     return Total(y, f)-Total(x-1, f);
-}
+} //SFSDFKDSJFL
 void Update(int x, int val, vector<int>&f){
     while (x<f.size()){
         f[x]+=val;
